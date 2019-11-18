@@ -1,0 +1,5 @@
+shopping\controller\PersonController.class
+shopping\model\Person.class
+shopping\repository\PersonRepository.class
+shopping\MainApplication.class
+shopping\dao\PersonDAO.class
